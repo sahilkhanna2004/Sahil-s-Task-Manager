@@ -1,30 +1,26 @@
-Team Task Manager
+# Task Manager
 
-This is a simple task manager web application where users can:
-- Register (demo)
-- Create projects
+This is a simple task manager web app that I built for the assignment.
+
+In this app, a user can:
 - Add tasks
-- Assign tasks to users
+- Assign tasks to someone
 - Mark tasks as completed
-- View dashboard with total, completed, and pending tasks
+- See total, completed and pending tasks in a small dashboard
 
-Features:
-- Task creation and assignment
-- Status tracking (Pending / Done)
-- Basic dashboard
+I also added a basic project and signup section just to simulate how a real system would work.
 
-Tech Used:
-- HTML
-- JavaScript
+## How it works
 
-Live URL:
+The user enters a task and assigns it to a person.  
+After adding, the task appears in the list with "Pending" status.  
+There is a button to mark the task as done, which updates the dashboard.
+
+## Tech used
+
+- HTML  
+- JavaScript  
+
+## Live Project
+
 https://69f65e1126e5d2cd2d64a424--gentle-capybara-c04ae6.netlify.app/
-
-GitHub Repository:
-(Paste your GitHub link here)
-
-Demo Video:
-(Add your video link here)
-
-Note:
-This is a simplified implementation of a full-stack task manager.
