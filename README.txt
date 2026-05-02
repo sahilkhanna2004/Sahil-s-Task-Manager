@@ -18,7 +18,7 @@ Tech Used:
 - JavaScript
 
 Live URL:
-https://69f659ef2f2f19a634507feb--gentle-capybara-c04ae6.netlify.app/
+https://69f65e1126e5d2cd2d64a424--gentle-capybara-c04ae6.netlify.app/
 
 GitHub Repository:
 (Paste your GitHub link here)
